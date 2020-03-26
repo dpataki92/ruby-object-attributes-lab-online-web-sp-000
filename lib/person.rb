@@ -15,5 +15,5 @@ class Person
   def breed
     @persons_job
   end
-  
+
 end
